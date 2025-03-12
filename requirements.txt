@@ -4,3 +4,4 @@ python-dotenv
 cryptography
 streamlit
 snowflake-snowpark-python
+requests
